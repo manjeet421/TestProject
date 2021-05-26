@@ -10,7 +10,7 @@ public class Test1 {
 			System.out.println("DO WORK");
 		}
 
-		System.out.println("Second_commit");
-		System.out.println("Learning git and Github");
+		System.out.println("Third Commit");
+		System.out.println("Gaining confidence");
 	}
 }
