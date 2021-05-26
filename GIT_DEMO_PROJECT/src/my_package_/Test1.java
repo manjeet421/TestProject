@@ -9,5 +9,8 @@ public class Test1 {
 		} else {
 			System.out.println("DO WORK");
 		}
+
+		System.out.println("Second_commit");
+		System.out.println("Learning git and Github");
 	}
 }
